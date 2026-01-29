@@ -1,8 +1,6 @@
 # Filename: 0200-is.py
 # Name: Dan Perry
 # Email: dhperry@northeaststate.edu
-#        danhperry@gmail.com
-#        danontech@gmail.com
 # Course and Section: CITC 1301 ALL
 # Assignment: Is methods
 # Date Created: date
@@ -25,5 +23,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
